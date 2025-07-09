@@ -5,6 +5,7 @@ You can get the code from editor. Enjoy!
 ### Vanilla
 
 <img src="https://img.shields.io/badge/VANILLA-1E1D1C?style=for-the-badge&logo=data:image/webp;base64,UklGRgABAABXRUJQVlA4WAoAAAAQAAAACwAADQAAQUxQSEUAAAABYFLbtpT7fowfgxJIIg05CDSDQ+EpgP73MjxQBIiICcBzWwPc0FBKJQDLk1wWdugj9Zst37gjJo+ZAaGSxNrgWr8YAAAAVlA4IJQAAABQAgCdASoMAA4AAgA0JbACdAYp5bad+bEm7YAA/gXPwoP5fnn2+dyaL+P2Gvx5V/0OUVl/F45Kn5yXgp+wbvNnbDIXRc9if8NKvWUGUJJyht/XOlBumYeyE7FwvzltuM0yxKlh//oVYPVrXiJ+YOLtuV5tDJolEkh/+ah+HjgOs4O0kOPALnQG0ctx+NItdv5KAAAA"/>
+<img src="https://img.shields.io/badge/NBT-1E1D1C?style=for-the-badge&logo=data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAABQAwCdASoOAA4AAgA0JbACdLoBEgBHJvFbDkC/M/SRrJG0IAD5XaWezGb2CekZlzJ9ft4DmgdthqE/LipeHw24HEJPAp53UTH74Mg/xfepC/Pgwz657zGk41TPrbzhlG/te604K5C1LpxGAD3HWmw7u9ISIuR5L+7Lw2v9UksZtOQmPuFv6kPbEYJ7NMLgMWCDwAAA"/>
 
 ### Mod Loaders
 
